@@ -1,0 +1,5 @@
+{
+    "Port": 8080,
+    "StaticVariables": "static",
+    "Connection_String": "mongodb+srv://Database:kohend789@cluster0-vou4z.mongodb.net/test?retryWrites=true&w=majority"
+}
